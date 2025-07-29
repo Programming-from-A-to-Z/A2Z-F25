@@ -123,7 +123,7 @@ Offers seven principles for equitable data science.
 | Type          | Examples                                         |
 | ------------- | ------------------------------------------------ |
 | Readings      | _Atlas of AI_, _Data Feminism_                   |
-| Tools         | RunwayML, ml5.js, HuggingFace (see separate doc) |
+| Tools         | ml5.js (creative coding), HuggingFace (open models), OpenAI/Anthropic/Google Gemini (LLMs) ([see more tools](ML-TOOLS.md)) |
 | Practitioners | Allison Parrish, Martine Syms, Lauren McCarthy   |
 | Frameworks    | Civic Signals, The Data Nutrition Project        |
 | Prompts       | AI Confessional, Hashtag Archive, Remix Projects |
