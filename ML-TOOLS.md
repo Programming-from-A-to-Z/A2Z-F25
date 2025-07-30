@@ -18,30 +18,40 @@ These models can be downloaded and run locally, offering more transparency and e
 | **[GPT-Neo/GPT-J](https://huggingface.co/EleutherAI)**   | Open LLMs from EleutherAI. Can be run locally or hosted via HuggingFace.                      | `LLM`, `open`, `education`, `poetry`       |
 | **[StableLM](https://github.com/Stability-AI/StableLM)** | Stability AI's open-source LLM series for local generation tasks.                             | `creative`, `open`, `local`, `LLM`         |
 
+## 🛠️ Local Deployment Tools
+| Tool/Platform                                       | Description                                                                | Tags                                    |
+| --------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------- |
+| **[Ollama](https://ollama.com/)**                   | Simple command-line tool to run open LLMs locally with minimal setup.      | `local`, `LLM`, `easy`, `developer`     |
+| **[LocalAI](https://github.com/go-skynet/LocalAI)** | Open-source alternative to OpenAI APIs, compatible with many local models. | `open`, `api-compatible`, `offline`     |
+| **[LM Studio](https://lmstudio.ai/)**               | GUI for running and experimenting with local LLMs, great for non-coders.   | `LLM`, `GUI`, `offline`, `experimental` |
+
 ---
 
 ## 🌐 API-Only / Cloud-Based Models
 
 Require API keys or subscriptions to use—less transparent, but powerful and production-ready.
 
-| Tool/Platform                                                     | Description                                                              | Tags                                             |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------ |
-| **[OpenAI GPT-4 / ChatGPT](https://platform.openai.com/)**        | Leading closed-source LLM with natural dialogue and multi-modal support. | `closed`, `LLM`, `creative`, `education`         |
-| **[Google Gemini](https://deepmind.google/technologies/gemini/)** | Multimodal models for voice, vision, and language (via Bard or API).     | `closed`, `TTS/voice`, `AI writing`, `education` |
-| **[RunwayML](https://runwayml.com/)**                             | GUI-based creative ML platform—GPT, TTS, image gen, video tools.         | `closed`, `GUI`, `TTS`, `visual`, `creative`     |
-| **[Cohere](https://cohere.com/)**                                 | API-based NLP tools for classification, generation, and embeddings.      | `LLM`, `commercial`, `API`, `education`          |
+| Tool/Platform                                                     | Description                                                                   | Tags                                              |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------- |
+| **[OpenAI GPT-4 / ChatGPT](https://platform.openai.com/)**        | Industry-leading closed-source LLM with chat, code, and multimodal support.   | `closed`, `LLM`, `creative`, `education`          |
+| **[Google Gemini](https://deepmind.google/technologies/gemini/)** | Multimodal model suite (text, image, audio) via Bard or Vertex AI API.        | `closed`, `multimodal`, `AI writing`, `education` |
+| **[Cohere](https://cohere.com/)**                                 | API-first platform for LLMs, classification, semantic search, and embeddings. | `LLM`, `commercial`, `API`, `education`           |
+| **[ElevenLabs](https://www.elevenlabs.io/)**                      | High-fidelity text-to-speech API with voice cloning and multilingual support. | `TTS/voice`, `closed`, `API`, `creative`          |
+
 
 ---
 
 ## 🎨 Local & Artist-Friendly Tools
 
-These are especially useful for workshops, teaching, or creative coding environments.
+These tools are especially useful for workshops, teaching, or creative coding environments, ideal for artists, educators, and beginners exploring machine learning interactively.
 
-| Tool                                                              | Description                                                                     | Tags                                               |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **[ml5.js](https://ml5js.org/)**                                  | Beginner-friendly ML for the web using JavaScript and p5.js. Great for artists. | `creative`, `education`, `TTS`, `vision`, `open`   |
-| **[Wekinator](http://www.wekinator.org/)**                        | GUI for training ML models with real-time input/output (e.g., sensors).         | `creative`, `education`, `interaction`, `gesture`  |
-| **[Teachable Machine](https://teachablemachine.withgoogle.com/)** | No-code tool to train simple models using webcam, audio, or pose data.          | `education`, `TTS`, `gesture`, `visual`, `browser` |
+| Tool                                                              | Description                                                                                 | Tags                                               |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **[ml5.js](https://ml5js.org/)**                                  | Beginner-friendly ML library for the web using JavaScript and p5.js. Great for artists.     | `creative`, `education`, `TTS`, `vision`, `open`   |
+| **[Wekinator](http://www.wekinator.org/)**                        | Real-time interactive ML via GUI; legacy tool still referenced in creative coding contexts. | `creative`, `education`, `interaction`, `gesture`  |
+| **[Teachable Machine](https://teachablemachine.withgoogle.com/)** | No-code tool to quickly train models using webcam, audio, or pose—runs directly in-browser. | `education`, `TTS`, `gesture`, `visual`, `browser` |
+| **[transformers.js](https://xenova.github.io/transformers.js/)**  | In-browser transformer models (e.g., text, image) compatible with JavaScript and p5.js.     | `LLM`, `open`, `browser`, `education`, `advanced`  |
+
 
 ---
 
@@ -82,6 +92,23 @@ These are especially useful for workshops, teaching, or creative coding environm
 - **Custom input devices**: Wekinator, Teachable Machine, ml5.js + p5
 
 ---
+
+## 📚 Additional Resources
+
+### Nicky Case
+- [AI Safety Dance (interactive explainer)](https://aisafety.dance/)
+- [“June 2025: AI Therapists & AI Clones! 🤖” – Patreon post](https://www.patreon.com/posts/june-2025-ai-ai-131748990)
+
+### Empire of AI
+- [**Empire of AI: Decolonizing Artificial Intelligence** by Kate Crawford](https://mitpress.mit.edu/9780262048379/empire-of-ai/)  
+  A forthcoming book exploring how AI systems reproduce and extend colonial power structures. Published by MIT Press (2024).
+
+### Retrieval-Augmented Generation (Context Engineering)
+- [NotebookLM (Google)](https://notebooklm.google.com/)
+- [notebookllama (GitHub)](https://github.com/run-llama/notebookllama)
+- [open-notebook (GitHub)](https://github.com/lfnovo/open-notebook)
+
+----
 
 ## ✒️ Attribution
 
