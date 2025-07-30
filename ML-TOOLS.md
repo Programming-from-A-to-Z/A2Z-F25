@@ -100,7 +100,7 @@ These tools are especially useful for workshops, teaching, or creative coding en
 - [“June 2025: AI Therapists & AI Clones! 🤖” – Patreon post](https://www.patreon.com/posts/june-2025-ai-ai-131748990)
 
 ### Empire of AI
-- [**Empire of AI: Decolonizing Artificial Intelligence** by Kate Crawford](https://mitpress.mit.edu/9780262048379/empire-of-ai/)  
+- [**Empire of AI: Decolonizing Artificial Intelligence** by Karen Hao](https://mitpress.mit.edu/9780262048379/empire-of-ai/)  
   A forthcoming book exploring how AI systems reproduce and extend colonial power structures. Published by MIT Press (2024).
 
 ### Retrieval-Augmented Generation (Context Engineering)
