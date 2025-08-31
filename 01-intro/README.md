@@ -2,7 +2,7 @@
 
 ## "Constrained" Writing / "Algorithmic" Writing
 
-- [Constrained Writing Slides](https://docs.google.com/presentation/d/13nXtT9ys5fozM_FPMUnXmIzgJ-goq4_chcY_tqZ6X-U/edit?usp=sharing)
+- [Constrained Writing Slides](https://docs.google.com/presentation/d/1lVxYdaL938SxGKUljruM5kofbV0y3kImWiViSXW57aw/edit?usp=sharing)
 - "Cut-ups"
   - [Cut-up Method](http://www.writing.upenn.edu/~afilreis/88v/burroughs-cutup.html) from Leroi Jones, ed., The Moderns: An Anthology of New Writing in America (NY: Corinth Books, 1963).
   - [Cut-up machine](http://www.languageisavirus.com/cutupmachine.html#.VfHCY51Viko)
