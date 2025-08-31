@@ -4,21 +4,19 @@
 
 ## Schedule
 
-### Week 1 - [Introduction](01-intro), 9/2
+### Week 1 - [Introduction](01-intro), 9/2 -- note to self: introduce regex
 
-### Week 2 - [Regular Expressions](02-regex), 9/9
+### Week 2 - [Data and APIs](02-apis), 9/9
 
-### Week 3 - [Data and APIs](03-apis), 9/16
+### Week 3 - [Text Analysis](03-word-counting), 9/16
 
-### Week 4 - [Text Analysis](04-word-counting), 9/23
+### Week 4 - [Language Models](04-language-models), 9/23 (markov, CFG, local LLMs, rita.js)
 
-### Week 5 - [Bots Part 1](05-bots), 9/30
+### Week 5 - [Bots: Text](05-bots), 9/30 -- node.js comes in (RiveScript, Discord, Blue Sky)
 
-### Week 6 - [Bots Part 2](05-bots), 10/7
+### Week 6 - [Bots: Voice](06-voice), 10/7 -- whisper, transformerrs.js
 
 ### Week 7 - [Bot Experiments Sharing](05-bots#add-your-assignment-below-via-pull-request), 10/21
-
-### Week 8 - [Markov Chains and Context-Free Grammars](06-markov-cfg), 10/28
 
 ### Week 9 - [ML: Transformer Models](07-transformers), 11/4
 
