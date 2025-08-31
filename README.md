@@ -14,7 +14,7 @@
 
 ### Week 5 - [Bots: Text](05-bots), 9/30 -- node.js comes in (RiveScript, Discord, Blue Sky)
 
-### Week 6 - [Bots: Voice](06-voice), 10/7 -- whisper, transformerrs.js
+### Week 6 - [Bots: Voice](06-voice), 10/7 -- whisper, transformers.js
 
 ### Week 7 - [Bot Experiments Sharing](05-bots#add-your-assignment-below-via-pull-request), 10/21
 
