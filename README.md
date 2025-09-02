@@ -6,9 +6,9 @@
 
 ### Week 1 - [Introduction](01-intro), 9/2 -- note to self: introduce regex
 
-### Week 2 - [Data and APIs](02-apis), 9/9
+### Week 2 - [Text Analysis](02-word-counting), 9/16
 
-### Week 3 - [Text Analysis](03-word-counting), 9/16
+### Week 3 - [Data and APIs](03-apis), 9/9
 
 ### Week 4 - [Language Models](04-language-models), 9/23 (markov, CFG, local LLMs, rita.js)
 
