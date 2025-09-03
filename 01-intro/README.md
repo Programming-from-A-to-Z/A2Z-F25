@@ -68,6 +68,8 @@
 
 3. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!) Document your results online in whatever format you like (blog post, notion, github pages, etc). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in an this now 9 years old [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
 
+4. Add a link below! If you have trouble, don't worry, we'll go over how to do the pull request in class next week. Give it your best shot and reach out for help!
+
 ## Add your name / link to your assignment below
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
