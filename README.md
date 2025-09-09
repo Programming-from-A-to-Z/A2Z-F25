@@ -1,4 +1,4 @@
-- Daniel Shiffman, Tuesdays, 12:10 - 2:40pm
+- Daniel Shiffman, Tuesdays, 12:20pm - 2:50pm
 - [All class dates](https://itp.nyu.edu/help/fa25-class-dates-and-deadlines/)
 - Office Hours (use NYU google calendar appts, link via class mailing list)
 
