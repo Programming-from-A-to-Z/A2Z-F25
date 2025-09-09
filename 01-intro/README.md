@@ -86,3 +86,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Ping -- [Week 1 Assignment](https://www.notion.so/pinglin36/Week-1-N-7-268e2a209705802babf6e101346cdc16?source=copy_link)
 - Billy -- [Week 1 Assignment](https://billybil30itpday.notion.site/Computation-Text-Week-1-Assignment-269edbdaee02800db730e2be510f34e5?source=copy_link)
 - Audrey -- [Week 1 Assignment](https://www.notion.so/Week-1-Assignment-26950145f38480e49782d6ab08f5d746?source=copy_link)
+- Yao -- [Week 1 Assignment](https://almond-celsius-975.notion.site/Week-1-269822d0868880f29cf7fca6f2b2f4bf?source=copy_link)
