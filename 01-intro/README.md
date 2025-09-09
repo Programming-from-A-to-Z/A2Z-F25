@@ -85,3 +85,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Ivy -- [Week 1 Assignment](https://ivy-jiang.notion.site/Assignment-1-Constraint-writing-26981cc6416080baaeeec3d839c4e47d)
 - Ping -- [Week 1 Assignment](https://www.notion.so/pinglin36/Week-1-N-7-268e2a209705802babf6e101346cdc16?source=copy_link)
 - Billy -- [Week 1 Assignment](https://billybil30itpday.notion.site/Computation-Text-Week-1-Assignment-269edbdaee02800db730e2be510f34e5?source=copy_link)
+- Audrey -- [Week 1 Assignment](https://www.notion.so/Week-1-Assignment-26950145f38480e49782d6ab08f5d746?source=copy_link)
