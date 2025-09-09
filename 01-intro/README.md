@@ -78,6 +78,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Fiona -- [Week 1 assignment](https://www.notion.so/Assignment-1-Constrained-Writing-268701873e078073af27cefd2861dfe1?source=copy_link)
 - Junqi -- [Week1 HW Assignment](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 - Duban -- [Week 1 Assignment](https://dubanmorales.cargo.site/computational-text-a-to-z)
+- Olivia -- [constrainedText](https://www.notion.so/CompText-1-Constrained-Writing-267d586d7a8d80d58626ce749423d437?source=copy_link)
 - Sky -- [Week 1 Assignment](https://tungsten-waterfall-ae7.notion.site/Week1_Assignment-2623d345d4aa8007a744eb4c01421e79)
 - Niki -- [Week 1 Assignment](https://reinvented-spoonbill-0fb.notion.site/A-to-Z-Week-1-Assignment-2680470c67d4804aa2dce34d5356b1c5)
 - Ivy -- [Week 1 Assignment](https://ivy-jiang.notion.site/Assignment-1-Constraint-writing-26981cc6416080baaeeec3d839c4e47d)
