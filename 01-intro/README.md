@@ -79,3 +79,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Junqi -- [Week1 HW Assignment](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 - Duban -- [Week 1 Assignment](https://dubanmorales.cargo.site/computational-text-a-to-z)
 - Ivy -- [Week 1 Assignment](https://ivy-jiang.notion.site/Assignment-1-Constraint-writing-26981cc6416080baaeeec3d839c4e47d)
+- Ping -- [Week 1 Assignment](https://www.notion.so/pinglin36/Week-1-N-7-268e2a209705802babf6e101346cdc16?source=copy_link)
+- Billy -- [Week 1 Assignment](https://billybil30itpday.notion.site/Computation-Text-Week-1-Assignment-269edbdaee02800db730e2be510f34e5?source=copy_link)
