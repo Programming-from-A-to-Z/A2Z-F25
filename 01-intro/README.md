@@ -78,3 +78,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Fiona -- [Week 1 assignment](https://www.notion.so/Assignment-1-Constrained-Writing-268701873e078073af27cefd2861dfe1?source=copy_link)
 - Junqi -- [Week1 HW Assignment](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 - Duban -- [Week 1 Assignment](https://dubanmorales.cargo.site/computational-text-a-to-z)
+- Rachel -- [Week 1 Assignment](https://rachel-shin-itp.notion.site/week-1-267d9b4cf2a68001a051e64bc7543f14?source=copy_link)
