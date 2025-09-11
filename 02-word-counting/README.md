@@ -47,6 +47,7 @@
 
 - 📚 [A Plan for Spam](http://www.paulgraham.com/spam.html) by Paul Graham
 - 🍿 [Explaining Bayesian Problems Using Visualizations](https://youtu.be/D8VZqxcu0I0) by Luana Micallef
+- 🍿 [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM)
 - 💻 [Sample start of Bayesian Classification Library](https://github.com/shiffman/bayes-classifier-js)
 
 ## Reading
