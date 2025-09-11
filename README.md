@@ -4,7 +4,7 @@
 
 ## Schedule
 
-### Week 1 - [Introduction](01-intro), 9/2 -- note to self: introduce regex
+### Week 1 - [Introduction](01-intro), 9/2
 
 ### Week 2 - [Text Analysis](02-word-counting), 9/9
 

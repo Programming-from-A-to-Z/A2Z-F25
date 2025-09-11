@@ -40,7 +40,7 @@
 
 - 🍿 [TF-IDF Video Tutorial](https://thecodingtrain.com/challenges/40-word-counter#part-3)
   - 💻 [TF-IDF sketch updated for p5.js 2](https://editor.p5js.org/a2zitp/sketches/C08B6Il-l)
-- 🍿 [Logarithmic scale | Logarithms](https://youtu.be/sBhEi4L91Sg) by Khan Academy
+    🍿- 🍿 [Logarithmic scale | Logarithms](https://youtu.be/sBhEi4L91Sg) by Khan Academy
 - 🔗 [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 
 ### Bayesian Text Classification
@@ -49,6 +49,12 @@
 - 🍿 [Explaining Bayesian Problems Using Visualizations](https://youtu.be/D8VZqxcu0I0) by Luana Micallef
 - 🍿 [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM)
 - 💻 [Sample start of Bayesian Classification Library](https://github.com/shiffman/bayes-classifier-js)
+
+### AFINN-111
+
+- 🍿 [AFINN-111 Video](https://thecodingtrain.com/challenges/44-afinn-111-sentiment-analysis)
+- 🔢 [AFINN-111 Dataset](https://www2.imm.dtu.dk/pubdb/pubs/6010-full.html)
+- 💻 [AFINN-111 Code Example updated for p5.js 2](https://editor.p5js.org/a2zitp/sketches/CuX9ru3Z0)
 
 ## Reading
 
