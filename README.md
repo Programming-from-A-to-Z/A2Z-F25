@@ -10,7 +10,7 @@
 
 ### Week 3 - [Data and APIs](03-apis), 9/16
 
-### Week 4 - [Language Models](04-language-models), 9/23 (markov, CFG, local LLMs, rita.js)
+### Week 4 - Language Models, 9/23 (markov, CFG, local LLMs, rita.js)
 
 ### Week 5 - Bots: Text, 9/30 -- node.js comes in (RiveScript, Discord, Blue Sky)
 
@@ -22,9 +22,9 @@
 
 ### Week 10 - ML: Embeddings, 11/11
 
-### Week 11 - [Final Project Proposals](final) + [additional](09-additional), 11/18
+### Week 11 - [Final Project Proposals](final) + additional topics, 11/18
 
-### Week 12 - [Final Project Proposals](final) + [additional](09-additional), 11/25
+### Week 12 - [Final Project Proposals](final) + additional topics, 11/25
 
 ### Week 13 - [Final Project in Progress](final), 12/2
 
