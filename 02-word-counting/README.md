@@ -81,7 +81,7 @@ Reflect on your process of word counting and consider the following questions (d
 ### Add a link to your API / data source here
 
 - Name - [Data Source](url)
-- Fiona - [Data Source](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
+- Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
 
 ### Add your assignment below via Pull Request
 
