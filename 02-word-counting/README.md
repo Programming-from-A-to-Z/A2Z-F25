@@ -102,6 +102,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Junqi - [Sloppy Summary](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 - Haya  - [Frantic Words](https://www.notion.so/Frantic-words-26fc09edca1780abba10fd3ca0f50a26)
 - Duban - [Comparing Bauhaus and Speculative Design Language](https://dubanmorales.cargo.site/computational-text-a-to-z)
+- Bairui - [Word Counting Tutorial by Recho](https://recho.dev/examples/word-count)
   
 ## Emoji Key for Video Tutorials, Readings, and more
 
