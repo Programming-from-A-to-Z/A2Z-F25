@@ -77,7 +77,7 @@ Reflect on your process of word counting and consider the following questions (d
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
-- Name - [title](url)
+- Sky - [Most Frequent Words in Korea & U.S. Constitution](https://editor.p5js.org/Sky-Seo/sketches/OGPhg8soV)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
