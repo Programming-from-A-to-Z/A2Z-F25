@@ -83,7 +83,7 @@ Reflect on your process of word counting and consider the following questions (d
 - Name - [Data Source](url)
 - Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
 
-- Junqi - [NYCopendata-Evictions]([url](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data))
+- Junqi - [NYCopendata-Evictions](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data)
 
 ### Add your assignment below via Pull Request
 
