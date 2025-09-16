@@ -81,6 +81,7 @@ Reflect on your process of word counting and consider the following questions (d
 ### Add a link to your API / data source here
 
 - Name - [Data Source](url)
+- Ivy - [2018 Central Park Squirrel Census - Squirrel Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
 - Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
 
 ### Add your assignment below via Pull Request
@@ -88,6 +89,7 @@ Reflect on your process of word counting and consider the following questions (d
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [what is the title of your assignment?](url)
+- Ivy - [Chinese Character Counting](https://ivy-jiang.notion.site/Assignment-2-Word-Counting-27081cc6416080bb85acc3447e41d0ac)
 - Fiona - [Word Counting for 7 Days Meal Plan](https://www.notion.so/Assignment-2-Word-Counting-26d701873e07804fb8b9ee0e9a19f5fe?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
