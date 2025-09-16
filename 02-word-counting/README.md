@@ -83,6 +83,8 @@ Reflect on your process of word counting and consider the following questions (d
 - Name - [Data Source](url)
 - Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
 - DJ - [Guardian Open Platform API](https://open-platform.theguardian.com/), [SEMrush API](https://developer.semrush.com/api/), [Reddit API](https://www.reddit.com/dev/api/), [X API v2](https://docs.x.com/x-api/introduction)
+- Billy - [Fragrance Finder API](https://rapidapi.com/remote-skills-remote-skills-default/api/fragrancefinder-api), [Fragrance Data API](https://api.fragella.com/) 
+- Junqi - [NYCopendata-Evictions](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data)
 
 ### Add your assignment below via Pull Request
 
@@ -91,6 +93,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Name - [what is the title of your assignment?](url)
 - DJ - [Spiral Word Count Visualizer](https://fl4me.notion.site/Week-2-Assn-26e5f3e6c8b8806abc29f102ed829dd7?source=copy_link)
 - Fiona - [Word Counting for 7 Days Meal Plan](https://www.notion.so/Assignment-2-Word-Counting-26d701873e07804fb8b9ee0e9a19f5fe?source=copy_link)
+- Xueyu - [Word Counting with tones](https://www.notion.so/xueyuli/WEEK-2-2698c08bfd9e8006abcbe4d5ceb20782)
+- Junqi - [Sloppy Summary](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
