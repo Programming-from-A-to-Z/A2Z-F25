@@ -81,15 +81,26 @@ Reflect on your process of word counting and consider the following questions (d
 ### Add a link to your API / data source here
 
 - Name - [Data Source](url)
+- Ivy - [2018 Central Park Squirrel Census - Squirrel Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
+- Sky - [Weather API_Open Meteo](https://open-meteo.com/)
 - Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
+- DJ - [Guardian Open Platform API](https://open-platform.theguardian.com/), [SEMrush API](https://developer.semrush.com/api/), [Reddit API](https://www.reddit.com/dev/api/), [X API v2](https://docs.x.com/x-api/introduction)
+- Billy - [Fragrance Finder API](https://rapidapi.com/remote-skills-remote-skills-default/api/fragrancefinder-api), [Fragrance Data API](https://api.fragella.com/) 
+- Junqi - [NYCopendata-Evictions](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data)
 
 ### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [what is the title of your assignment?](url)
+- Ivy - [Chinese Character Counting](https://ivy-jiang.notion.site/Assignment-2-Word-Counting-27081cc6416080bb85acc3447e41d0ac)
+- Sky - [Most Frequent Words in Korea & U.S. Constitution](https://editor.p5js.org/Sky-Seo/sketches/OGPhg8soV)
+- DJ - [Spiral Word Count Visualizer](https://fl4me.notion.site/Week-2-Assn-26e5f3e6c8b8806abc29f102ed829dd7?source=copy_link)
 - Fiona - [Word Counting for 7 Days Meal Plan](https://www.notion.so/Assignment-2-Word-Counting-26d701873e07804fb8b9ee0e9a19f5fe?source=copy_link)
 - Haya  - [Frantic Words](https://editor.p5js.org/Haya-Faisal/sketches/gFSqBXVVM)
+- Billy - [The only Indonesian text you'll read here] (https://billybil30itpday.notion.site/Computational-Text-Week-2-270edbdaee0280d19185c1543d1a26a1)
+- Xueyu - [Word Counting with tones](https://www.notion.so/xueyuli/WEEK-2-2698c08bfd9e8006abcbe4d5ceb20782)
+- Junqi - [Sloppy Summary](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
