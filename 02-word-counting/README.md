@@ -40,14 +40,21 @@
 
 - 🍿 [TF-IDF Video Tutorial](https://thecodingtrain.com/challenges/40-word-counter#part-3)
   - 💻 [TF-IDF sketch updated for p5.js 2](https://editor.p5js.org/a2zitp/sketches/C08B6Il-l)
-- 🍿 [Logarithmic scale | Logarithms](https://youtu.be/sBhEi4L91Sg) by Khan Academy
+    🍿- 🍿 [Logarithmic scale | Logarithms](https://youtu.be/sBhEi4L91Sg) by Khan Academy
 - 🔗 [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 
 ### Bayesian Text Classification
 
 - 📚 [A Plan for Spam](http://www.paulgraham.com/spam.html) by Paul Graham
 - 🍿 [Explaining Bayesian Problems Using Visualizations](https://youtu.be/D8VZqxcu0I0) by Luana Micallef
+- 🍿 [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM)
 - 💻 [Sample start of Bayesian Classification Library](https://github.com/shiffman/bayes-classifier-js)
+
+### AFINN-111
+
+- 🍿 [AFINN-111 Video](https://thecodingtrain.com/challenges/44-afinn-111-sentiment-analysis)
+- 🔢 [AFINN-111 Dataset](https://www2.imm.dtu.dk/pubdb/pubs/6010-full.html)
+- 💻 [AFINN-111 Code Example updated for p5.js 2](https://editor.p5js.org/a2zitp/sketches/CuX9ru3Z0)
 
 ## Reading
 
@@ -58,8 +65,6 @@
 ## Assignment
 
 1: In preparation for next week, add a link to a data source or API (even just data that appears in raw form on a web page) that interests you! Don't worry about this too much, anything will do! I'll use this list to prepare examples for next week.
-
-- add a link to your API / data source here
 
 2: Choose a text or data source and count word frequencies following the examples above. Design your own creative output. This need not be visual (sonify word counts?) nor does it require code (knit your own word frequency scarf!). Some things to consider:
 
@@ -73,12 +78,33 @@ Reflect on your process of word counting and consider the following questions (d
 - What is lost from word counting?
 - Challenge the assumption that algorithms for analyzing text (such as word counting or search engine rankings, as Noble shows) are neutral.
 
-## Add your assignment below via Pull Request
+### Add a link to your API / data source here
+
+- Name - [Data Source](url)
+- Ivy - [2018 Central Park Squirrel Census - Squirrel Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
+- Sky - [Weather API_Open Meteo](https://open-meteo.com/)
+- Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
+- DJ - [Guardian Open Platform API](https://open-platform.theguardian.com/), [SEMrush API](https://developer.semrush.com/api/), [Reddit API](https://www.reddit.com/dev/api/), [X API v2](https://docs.x.com/x-api/introduction)
+- Billy - [Fragrance Finder API](https://rapidapi.com/remote-skills-remote-skills-default/api/fragrancefinder-api), [Fragrance Data API](https://api.fragella.com/) 
+- Junqi - [NYCopendata-Evictions](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data)
+
+### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
-- Name - [title](url)
-
+- Name - [what is the title of your assignment?](url)
+- Ivy - [Chinese Character Counting](https://ivy-jiang.notion.site/Assignment-2-Word-Counting-27081cc6416080bb85acc3447e41d0ac)
+- Sky - [Most Frequent Words in Korea & U.S. Constitution](https://editor.p5js.org/Sky-Seo/sketches/OGPhg8soV)
+- DJ - [Spiral Word Count Visualizer](https://fl4me.notion.site/Week-2-Assn-26e5f3e6c8b8806abc29f102ed829dd7?source=copy_link)
+- Fiona - [Word Counting for 7 Days Meal Plan](https://www.notion.so/Assignment-2-Word-Counting-26d701873e07804fb8b9ee0e9a19f5fe?source=copy_link)
+- Billy - [The only Indonesian text you'll read here](https://billybil30itpday.notion.site/Computational-Text-Week-2-270edbdaee0280d19185c1543d1a26a1)
+- Xueyu - [Word Counting with tones](https://www.notion.so/xueyuli/WEEK-2-2698c08bfd9e8006abcbe4d5ceb20782)
+- Junqi - [Sloppy Summary](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
+- Haya  - [Frantic Words](https://www.notion.so/Frantic-words-26fc09edca1780abba10fd3ca0f50a26)
+- Duban - [Comparing Bauhaus and Speculative Design Language](https://dubanmorales.cargo.site/computational-text-a-to-z)
+- Bairui - [Word Counting Tutorial by Recho](https://recho.dev/examples/word-count)
+- Rachel - [CAPS](https://rachel-shin-itp.notion.site/week-2-267d9b4cf2a6809a8348cc7fdc1e5821?source=copy_link)
+  
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
