@@ -89,6 +89,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [what is the title of your assignment?](url)
 - Fiona - [Word Counting for 7 Days Meal Plan](https://www.notion.so/Assignment-2-Word-Counting-26d701873e07804fb8b9ee0e9a19f5fe?source=copy_link)
+- Billy - [The only Indonesian text you'll read here] (https://billybil30itpday.notion.site/Computational-Text-Week-2-270edbdaee0280d19185c1543d1a26a1)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
