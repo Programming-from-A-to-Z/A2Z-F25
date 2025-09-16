@@ -87,7 +87,7 @@ Reflect on your process of word counting and consider the following questions (d
 - DJ - [Guardian Open Platform API](https://open-platform.theguardian.com/), [SEMrush API](https://developer.semrush.com/api/), [Reddit API](https://www.reddit.com/dev/api/), [X API v2](https://docs.x.com/x-api/introduction)
 - Billy - [Fragrance Finder API](https://rapidapi.com/remote-skills-remote-skills-default/api/fragrancefinder-api), [Fragrance Data API](https://api.fragella.com/) 
 - Junqi - [NYCopendata-Evictions](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data)
-
+- Niki - [The Cat API](https://thecatapi.com/)
 ### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
@@ -102,7 +102,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Junqi - [Sloppy Summary](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 - Haya  - [Frantic Words](https://www.notion.so/Frantic-words-26fc09edca1780abba10fd3ca0f50a26)
 - Duban - [Comparing Bauhaus and Speculative Design Language](https://dubanmorales.cargo.site/computational-text-a-to-z)
-  
+- Niki - [Word Counts in Canto pop Lyrics](https://reinvented-spoonbill-0fb.notion.site/A-to-Z-Week-2-Assignment-Niki-2700470c67d4805395d3fb86c09ecc3e)  
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
