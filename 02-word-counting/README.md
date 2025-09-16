@@ -82,6 +82,7 @@ Reflect on your process of word counting and consider the following questions (d
 
 - Name - [Data Source](url)
 - Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
+- Haya  - [Frantic Words](https://www.notion.so/Frantic-words-26fc09edca1780abba10fd3ca0f50a26)
 
 ### Add your assignment below via Pull Request
 
