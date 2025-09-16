@@ -92,6 +92,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [what is the title of your assignment?](url)
 - Fiona - [Word Counting for 7 Days Meal Plan](https://www.notion.so/Assignment-2-Word-Counting-26d701873e07804fb8b9ee0e9a19f5fe?source=copy_link)
+- Xueyu - [Word Counting with tones](https://www.notion.so/xueyuli/WEEK-2-2698c08bfd9e8006abcbe4d5ceb20782)
 
 - Junqi - [Sloppy Summary](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 
