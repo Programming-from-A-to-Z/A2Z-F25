@@ -82,6 +82,7 @@ Reflect on your process of word counting and consider the following questions (d
 
 - Name - [Data Source](url)
 - Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
+- Billy - [Fragrance Finder API](https://rapidapi.com/remote-skills-remote-skills-default/api/fragrancefinder-api), [Fragrance Data API](https://api.fragella.com/) 
 
 - Junqi - [NYCopendata-Evictions](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data)
 
