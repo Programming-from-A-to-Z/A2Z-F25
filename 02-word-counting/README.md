@@ -103,6 +103,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Haya  - [Frantic Words](https://www.notion.so/Frantic-words-26fc09edca1780abba10fd3ca0f50a26)
 - Duban - [Comparing Bauhaus and Speculative Design Language](https://dubanmorales.cargo.site/computational-text-a-to-z)
 - Bairui - [Word Counting Tutorial by Recho](https://recho.dev/examples/word-count)
+- Rachel - [CAPS](https://rachel-shin-itp.notion.site/week-2-267d9b4cf2a6809a8348cc7fdc1e5821?source=copy_link)
   
 ## Emoji Key for Video Tutorials, Readings, and more
 
