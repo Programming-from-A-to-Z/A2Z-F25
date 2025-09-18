@@ -108,7 +108,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Bairui - [Word Counting Tutorial by Recho](https://recho.dev/examples/word-count)
 - Rachel - [CAPS](https://rachel-shin-itp.notion.site/week-2-267d9b4cf2a6809a8348cc7fdc1e5821?source=copy_link)
 - Olivia - [cursedVisions](https://www.notion.so/CompText-2-Word-Frequencies-cursedVisions-26dd586d7a8d804fae7ec9810dce54fb?source=copy_link)
-  
+- Ping - [Word Frequency: Little Red Riding Hood](https://editor.p5js.org/pinglin/sketches/0ms_iruRg)
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
