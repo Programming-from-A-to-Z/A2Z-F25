@@ -82,6 +82,7 @@ Reflect on your process of word counting and consider the following questions (d
 
 - Name - [Data Source](url)
 - Ivy - [2018 Central Park Squirrel Census - Squirrel Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
+- Olivia - [Iliad](https://www.gutenberg.org/ebooks/6130)
 - Sky - [Weather API_Open Meteo](https://open-meteo.com/)
 - Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
 - DJ - [Guardian Open Platform API](https://open-platform.theguardian.com/), [SEMrush API](https://developer.semrush.com/api/), [Reddit API](https://www.reddit.com/dev/api/), [X API v2](https://docs.x.com/x-api/introduction)
@@ -106,6 +107,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Niki - [Word Counts in Canto pop Lyrics](https://reinvented-spoonbill-0fb.notion.site/A-to-Z-Week-2-Assignment-Niki-2700470c67d4805395d3fb86c09ecc3e)  
 - Bairui - [Word Counting Tutorial by Recho](https://recho.dev/examples/word-count)
 - Rachel - [CAPS](https://rachel-shin-itp.notion.site/week-2-267d9b4cf2a6809a8348cc7fdc1e5821?source=copy_link)
+- Olivia - [cursedVisions](https://www.notion.so/CompText-2-Word-Frequencies-cursedVisions-26dd586d7a8d804fae7ec9810dce54fb?source=copy_link)
   
 ## Emoji Key for Video Tutorials, Readings, and more
 
