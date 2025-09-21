@@ -10,7 +10,7 @@
 
 ### Week 3 - [Data and APIs](03-apis), 9/16
 
-### Week 4 - Language Models, 9/23 (markov, CFG, local LLMs, rita.js)
+### Week 4 - [Language Models](04-language-models), 9/23
 
 ### Week 5 - Bots: Text, 9/30 -- node.js comes in (RiveScript, Discord, Blue Sky)
 
