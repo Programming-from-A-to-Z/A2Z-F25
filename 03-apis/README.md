@@ -80,6 +80,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Fiona - [Fiona's W3 Assignment JSON about art](https://www.notion.so/Fiona-s-Assignment-3-APIs-and-Libraries-275701873e07802dbabbecd83450831e?source=copy_link)
 - Niki - [Niki's Week 3 Assignment Generating Sentences and Poems](https://reinvented-spoonbill-0fb.notion.site/A-to-Z-Week-3-Data-API-Niki-2760470c67d480489d9ee5ab2887261b?source=copy_link)
 - Sky - [Sky's W3 Assignment weather Data Visualization](https://www.notion.so/Week3_Assignment-2773d345d4aa80ec8dd0c49ac4ef9fb2)
+- DJ - [Dynamic Weather Visualization](https://fl4me.notion.site/Week-3-Assn-2705f3e6c8b8809e815bd285f41b2210?source=copy_link)
 - Ivy - [Week 3 Assignment](https://ivy-jiang.notion.site/Assignment-3-Data-and-APIs-27781cc6416080958ac7eeb4735d390f)
 - Olivia - [31X8;](https://www.notion.so/CompText-3-APIs-Text-Analysis-31X8-277d586d7a8d80788a31e611ede634f6?source=copy_link)
 
