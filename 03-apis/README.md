@@ -51,7 +51,7 @@
 
 ## Reading
 
-- 📕 [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/) by Kate Crawford and Trevor Paglen
+- 📕 [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://link.springer.com/article/10.1007/s00146-021-01162-8) by Kate Crawford and Trevor Paglen (must be on NYU network to access)
 - 📚 [The Point of Collection](https://medium.com/datasociety-points/the-point-of-collection-8ee44ad7c2fa) by Mimi Onuoha (see: [Missing Datasets](https://github.com/MimiOnuoha/missing-datasets))
 - 📚 [Introduction: Why Data Science Needs Feminism by Catherine D'Ignazio and Lauren Klein](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3)
 
@@ -64,7 +64,7 @@
 - Use an API like [Datamuse](https://www.datamuse.com/api/) or [Wordnik](http://developer.wordnik.com/) to lookup meta-data about a word.
 - Try using another API [from the examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE) (NYTimes, Wikipedia, etc.) or pick your own not from the examples!
 
-2. Document your experience working with the library, API, or data source in a blog post and consider the following questions (stemming from the [Excavating AI](https://www.excavating.ai/) reading.
+2. Document your experience working with the library, API, or data source in a blog post and consider the following questions (stemming from the [Excavating AI](https://link.springer.com/article/10.1007/s00146-021-01162-8) reading (accessible via NYU networ).
    - What is the origin of the data?
    - Who had the power to collect, label, and make available the data?
    - If you had to create a "data biography" (Thank you to Ellen Nickles for this term), what would you include? Have the maintainers of this dataset or API made this information easily available?
