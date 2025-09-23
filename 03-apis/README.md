@@ -76,6 +76,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [title](url)
 - Ping - [LoadJSON: Pokemonn](https://www.notion.so/pinglin36/Week-3-LoadJSON-276e2a20970580faa9b0c3e6deab7c07?source=copy_link)
+- Fiona - [Fiona's W3 Assignment JSON about art](https://www.notion.so/Fiona-s-Assignment-3-APIs-and-Libraries-275701873e07802dbabbecd83450831e?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
