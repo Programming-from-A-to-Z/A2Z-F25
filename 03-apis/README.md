@@ -82,6 +82,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Sky - [Sky's W3 Assignment weather Data Visualization](https://www.notion.so/Week3_Assignment-2773d345d4aa80ec8dd0c49ac4ef9fb2)
 - Ivy - [Week 3 Assignment](https://ivy-jiang.notion.site/Assignment-3-Data-and-APIs-27781cc6416080958ac7eeb4735d390f)
 - Olivia - [31X8;](https://www.notion.so/CompText-3-APIs-Text-Analysis-31X8-277d586d7a8d80788a31e611ede634f6?source=copy_link)
+- Haya - [Confused Radio](https://www.notion.so/Confused-Radio-277c09edca178012a27ac7a70f537f2c)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
