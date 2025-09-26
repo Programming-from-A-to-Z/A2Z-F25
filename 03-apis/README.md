@@ -87,6 +87,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Olivia - [31X8;](https://www.notion.so/CompText-3-APIs-Text-Analysis-31X8-277d586d7a8d80788a31e611ede634f6?source=copy_link)
 - Haya - [Confused Radio](https://www.notion.so/Confused-Radio-277c09edca178012a27ac7a70f537f2c)
 - Xueyu - [Week 3 Assignment generate sentences](https://www.notion.so/xueyuli/Assignment-2768c08bfd9e807fb2ecff384390cc98)
+- rachel - [fontext](https://rachel-shin-itp.notion.site/week-3-267d9b4cf2a680a8a120ecc82522bdad?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
