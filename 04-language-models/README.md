@@ -106,6 +106,7 @@ Experiment with running a small language model locally in the browser using [tra
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [post title](post url)
+- Olivia - [text-collage](https://www.notion.so/CompText-4-Markov-Chains-text-collage-27bd586d7a8d80f4a030e8972a599998?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
