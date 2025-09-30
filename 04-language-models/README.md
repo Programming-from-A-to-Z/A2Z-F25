@@ -113,6 +113,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Fiona - [Week 4 Secret Rizz Up Lines Website](https://www.notion.so/Fiona-s-Assignment-4-Language-Models-27c701873e0780b79baff7d55310ace0?source=copy_link) 
 - Junqi - [Test Projects related to Cultural Topics](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 - rachel - [Markov font](https://rachel-shin-itp.notion.site/week-5-267d9b4cf2a680bb98e1f4e7b3260aca?source=copy_link)
+- Ivy - [Tracey - Tonight's Addams Family Dinner Menu](https://ivy-jiang.notion.site/Assignment-4-27e81cc64160802ea230c81bc980f13c)
 - olivia - [text-collage](https://www.notion.so/CompText-4-Markov-Chains-text-collage-27bd586d7a8d80f4a030e8972a599998?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
