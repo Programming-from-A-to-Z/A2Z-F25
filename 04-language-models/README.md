@@ -105,7 +105,7 @@ Experiment with running a small language model locally in the browser using [tra
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
-- Name - [post title](post url)
+- rachel - [Markov font](https://rachel-shin-itp.notion.site/week-5-267d9b4cf2a680bb98e1f4e7b3260aca?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
