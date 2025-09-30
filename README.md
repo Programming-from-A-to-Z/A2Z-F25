@@ -12,15 +12,17 @@
 
 ### Week 4 - [Language Models](04-language-models), 9/23
 
-### Week 5 - Bots: Text, 9/30 -- node.js comes in (RiveScript, Discord, Blue Sky)
+### Week 5 - [Bots: Voice](05-bots), 9/30
 
-### Week 6 - Bots: Voice, 10/7 -- whisper, transformers.js
+### Week 6 - [Bots: Social Media APIs](05-bots), 10/7
 
 ### Week 7 - Bot Experiments Sharing, 10/21
 
-### Week 9 - ML: Transformer Models, 11/4
+### Week 8 - ML: LLMs, Training and Fine-Tuning, 10/28
 
-### Week 10 - ML: Embeddings, 11/11
+### Week 9 - ML: Embeddings, 11/4
+
+### Week 10 - TBD, 11/11
 
 ### Week 11 - [Final Project Proposals](final) + additional topics, 11/18
 
