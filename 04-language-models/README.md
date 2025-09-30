@@ -106,6 +106,7 @@ Experiment with running a small language model locally in the browser using [tra
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [post title](post url)
+- Niki - [Week 4 Assignment Fortune Sphere&Lucky Message](https://reinvented-spoonbill-0fb.notion.site/A-to-Z-Week-4-Language-Model-Niki-27d0470c67d480439fc0d4e6cd7aac56)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
