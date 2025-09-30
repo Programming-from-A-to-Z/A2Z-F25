@@ -106,6 +106,7 @@ Experiment with running a small language model locally in the browser using [tra
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [post title](post url)
+- Billy - [My Vampire Chatbot] (https://billybil30itpday.notion.site/Computational-Text-Week-4-27eedbdaee0280ad88bad5a8a0ef449b?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
