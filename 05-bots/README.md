@@ -60,6 +60,7 @@
 - 📚 [Kokoro TTS](https://github.com/nazdridoy/kokoro-tts)
 - 📚 [Web Speech API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - 📚 [p5.speech library for p5.js](https://idmnyu.github.io/p5.js-speech/)
+- [EU Article 50: Transparency Obligations for Providers and Deployers of Certain AI Systems](https://artificialintelligenceact.eu/article/50/)
 
 ## Reading
 
