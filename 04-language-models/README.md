@@ -106,6 +106,7 @@ Experiment with running a small language model locally in the browser using [tra
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [post title](post url)
+- Niki - [Week 4 Assignment Fortune Sphere&Lucky Message](https://reinvented-spoonbill-0fb.notion.site/A-to-Z-Week-4-Language-Model-Niki-27d0470c67d480439fc0d4e6cd7aac56)
 - Billy - [My Vampire Chatbot] (https://billybil30itpday.notion.site/Computational-Text-Week-4-27eedbdaee0280ad88bad5a8a0ef449b?source=copy_link)
 - Ping - [Horror Recipe](https://www.notion.so/pinglin36/Week4-Markov-277e2a20970580eb9101ecaf05530647?source=copy_link)
 - Fiona - [Week 4 Secret Rizz Up Lines Website](https://www.notion.so/Fiona-s-Assignment-4-Language-Models-27c701873e0780b79baff7d55310ace0?source=copy_link) 
