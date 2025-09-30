@@ -7,7 +7,7 @@
 
 ## ChatBots
 
-- 📈 [ChatBot Slides](https://docs.google.com/presentation/d/1NCeg8WJnH2RFU-VTMpYCffPGHkFRDAoED4LwK6affvI/edit?usp=sharing)
+- 📈 [ChatBot Slides](https://docs.google.com/presentation/d/1v643tW0c6bHn8fDfh2C2ouL5IVqnpqqKBq8QBI8X-zg/edit?usp=sharing)
 - 🔗 [RiveScript](https://www.rivescript.com/)
 - 💻 [RiveScript example: Say Banana](https://editor.p5js.org/a2zitp/sketches/wMo5oiyVe)
 - 🚨 [RiveScript video tutorial](https://www.youtube.com/watch?v=wf8w1BJb9Xc)
@@ -24,7 +24,7 @@
 
 ## Twitter API
 
-- 📈 [TwitterBot Slides](https://docs.google.com/presentation/d/1rL95AggCb0EG6sBhZ47OWWgI_t7Hllqbyt4AnD2c3-4/edit?usp=sharing)
+- 📈 [TwitterBot Slides](https://docs.google.com/presentation/d/1ar78vNdfH5H8rlhVk9LJTvnbG1W8VGX9m77qv2hPW24/edit?usp=sharing)
 - 💻 [Twitter Example Code (tested in 2024, features limited, see README for more)](https://github.com/Programming-from-A-to-Z/Twitter-Bots-Maybe)
 - [node-twitter-api-v2 package](https://github.com/PLhery/node-twitter-api-v2)
 
