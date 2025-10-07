@@ -71,7 +71,7 @@
 - 📚 [Queer Your Bots: The Bot Builder Roundtable](http://www.autostraddle.com/queer-your-bots-the-bot-builder-roundtable-333806/)
 - 📚 [12 Weird, Excellent Twitter Bots Chosen by Twitter’s Best Bot-Makers](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)
 
-## Bot Project, Due Wed October 21
+## Bot Project, Due Tuesday October 21
 
 Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](#discord-api), [Twitter](#twitter-api), [BlueSky](#bluesky-api), [RiveScript + p5.js](#chatbots), [LLMs](#llms), and [voice models](#voice), but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
 
