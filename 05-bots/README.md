@@ -84,8 +84,8 @@ Prepare a 5 minute presentation on your bot on October 21.
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [project title](url)
-  
-- Junqi - [Rhetorical Bot](https://jaceylynn.github.io/w5_rivescript_chatbot/)
+- Olivia - [muse_stg.1](https://www.notion.so/CompText-5-Bots-Muse-pt-1-284d586d7a8d807abb35f3d0b25fbbc6?source=copy_link)
+  - Junqi - [Rhetorical Bot](https://jaceylynn.github.io/w5_rivescript_chatbot/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
