@@ -85,6 +85,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [project title](url)
 - Olivia - [muse_stg.1](https://www.notion.so/CompText-5-Bots-Muse-pt-1-284d586d7a8d807abb35f3d0b25fbbc6?source=copy_link)
+  - Junqi - [Rhetorical Bot](https://jaceylynn.github.io/w5_rivescript_chatbot/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
