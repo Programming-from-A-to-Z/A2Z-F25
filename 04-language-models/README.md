@@ -115,7 +115,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - rachel - [Markov font](https://rachel-shin-itp.notion.site/week-5-267d9b4cf2a680bb98e1f4e7b3260aca?source=copy_link)
 - Ivy - [Tracey - Tonight's Addams Family Dinner Menu](https://ivy-jiang.notion.site/Assignment-4-27e81cc64160802ea230c81bc980f13c)
 - olivia - [text-collage](https://www.notion.so/CompText-4-Markov-Chains-text-collage-27bd586d7a8d80f4a030e8972a599998?source=copy_link)
-
+- Duban - [Space-Generator](https://dubanmorales.cargo.site/computational-text-a-to-z)
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
