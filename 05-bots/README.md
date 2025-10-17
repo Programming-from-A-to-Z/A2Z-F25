@@ -75,9 +75,18 @@
 
 Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](#discord-api), [Twitter](#twitter-api), [BlueSky](#bluesky-api), [RiveScript + p5.js](#chatbots), [LLMs](#llms), and [voice models](#voice), but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
 
-Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots,etc. Reflect on the [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) and what ethical questions you considered as part of your process and documentation.
+Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots,etc.
 
-Prepare a 5 minute presentation on your bot on October 21.
+Prepare an ~5 minute presentation on your bot on October 21.
+
+Here are some prompts for you to think about:
+
+- What is your bot? (What do you imagine it would do if you had no time or technical constraints?)
+- What were you able to get to work? What was helpful to you as part of the process of learning to make your bot?
+- What were you not able to get to work? What challenges did you face? What are you hoping you might have time to learn how to do in the future?
+- Does the platform you chose make sense for your bot or do you think a different environment would be better?
+
+The [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) was developed years ago in collaboration with the students in a previous A2Z class. It was focused on "Twitter Bots," I had hoped to have a discussion and update it to consider today's social media + AI landscape, perhaps this is something we can revisit later in the semester. As part of your presentation, consider reflect on the social impact and any ethical questions you considered as part of your process and documentation.
 
 ## Add your assignment below via Pull Request
 
