@@ -86,7 +86,7 @@ Here are some prompts for you to think about:
 - What were you not able to get to work? What challenges did you face? What are you hoping you might have time to learn how to do in the future?
 - Does the platform you chose make sense for your bot or do you think a different environment would be better?
 
-The [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) was developed years ago in collaboration with the students in a previous A2Z class. It was focused on "Twitter Bots," I had hoped to have a discussion and update it to consider today's social media + AI landscape, perhaps this is something we can revisit later in the semester. As part of your presentation, consider reflect on the social impact and any ethical questions you considered as part of your process and documentation.
+The [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) was developed years ago in collaboration with the students in a previous A2Z class. It was focused on "Twitter Bots," I had hoped to have a discussion and update it to consider today's social media + AI landscape, perhaps this is something we can revisit later in the semester. As part of your documentation, consider reflecting on the social impact and any ethical questions you considered as part of your process and documentation.
 
 ## Add your assignment below via Pull Request
 
