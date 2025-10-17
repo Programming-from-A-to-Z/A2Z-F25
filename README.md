@@ -16,7 +16,7 @@
 
 ### Week 6 - [Bots: Social Media APIs](05-bots), 10/7
 
-### Week 7 - Bot Experiments Sharing, 10/21
+### Week 7 - [Bot Experiments Sharing](https://github.com/Programming-from-A-to-Z/A2Z-F25/blob/main/05-bots/README.md#bot-project-due-tuesday-october-21), 10/21
 
 ### Week 8 - ML: LLMs, Training and Fine-Tuning, 10/28
 
