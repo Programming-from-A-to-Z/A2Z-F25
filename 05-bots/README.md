@@ -103,6 +103,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Fiona -[Fiona's Bot](https://www.notion.so/Fiona-s-Assignment-CHATBOT-293701873e078082a4bdd2cf63dab710?source=copy_link)
 - Haya - [One Chorus Bot](https://www.notion.so/Midterm-Project-286c09edca1780fe9b2acea81de03b55?source=copy_link)
 - DJ - [Homie Bot](https://fl4me.notion.site/Assn-6-2895f3e6c8b880d98999d4e6990ecba8?source=copy_link)
+- Yifan - [Pigeon Bot]([https://www.notion.so/Midterm-Project-286c09edca1780fe9b2acea81de03b55?source=copy_link](https://ccyffan.notion.site/Bot-Assignment-29345850b51e8096b3f5cc47b21eecd5?source=copy_link))
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
