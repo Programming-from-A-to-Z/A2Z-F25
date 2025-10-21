@@ -96,6 +96,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - rachel - [when you talk](https://rachel-shin-itp.notion.site/week-5-267d9b4cf2a680bb98e1f4e7b3260aca?source=copy_link)
 - Olivia - [muse](https://www.notion.so/CompText-6-Bots-Muse-291d586d7a8d8004aa62d94fb32dc014?source=copy_link)
 - Junqi - [Rhetorical Bot](https://jaceylynn.github.io/w5_rivescript_chatbot/)
+- Sky - [sneaking a listen to the conversation](https://www.notion.so/MidTerm_ChatBot-2873d345d4aa8065bc76f22698040336)
 - Ping - [Pet Bot](https://www.notion.so/pinglin36/Discord-Bot-289e2a209705802e9961c55de2038818?source=copy_link)
 - Fiona -[Fiona's Bot](https://www.notion.so/Fiona-s-Assignment-CHATBOT-293701873e078082a4bdd2cf63dab710?source=copy_link)
 - Haya - [One Chorus Bot](https://www.notion.so/Midterm-Project-286c09edca1780fe9b2acea81de03b55?source=copy_link)
