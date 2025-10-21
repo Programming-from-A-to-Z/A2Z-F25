@@ -96,6 +96,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - rachel - [when you talk](https://rachel-shin-itp.notion.site/week-5-267d9b4cf2a680bb98e1f4e7b3260aca?source=copy_link)
 - Olivia - [muse_stg.1](https://www.notion.so/CompText-5-Bots-Muse-pt-1-284d586d7a8d807abb35f3d0b25fbbc6?source=copy_link)
 - Junqi - [Rhetorical Bot](https://jaceylynn.github.io/w5_rivescript_chatbot/)
+- Sky - [sneaking a listen to the conversation](https://www.notion.so/MidTerm_ChatBot-2873d345d4aa8065bc76f22698040336)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
