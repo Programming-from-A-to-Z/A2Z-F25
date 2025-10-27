@@ -86,7 +86,7 @@ Here are some prompts for you to think about:
 - What were you not able to get to work? What challenges did you face? What are you hoping you might have time to learn how to do in the future?
 - Does the platform you chose make sense for your bot or do you think a different environment would be better?
 
-The [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) was developed years ago in collaboration with the students in a previous A2Z class. It was focused on "Twitter Bots," I had hoped to have a discussion and update it to consider today's social media + AI landscape, perhaps this is something we can revisit later in the semester. As part of your presentation, consider reflect on the social impact and any ethical questions you considered as part of your process and documentation.
+The [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) was developed years ago in collaboration with the students in a previous A2Z class. It was focused on "Twitter Bots," I had hoped to have a discussion and update it to consider today's social media + AI landscape, perhaps this is something we can revisit later in the semester. As part of your documentation, consider reflecting on the social impact and any ethical questions you considered as part of your process and documentation.
 
 ## Add your assignment below via Pull Request
 
@@ -94,8 +94,17 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [project title](url)
 - rachel - [when you talk](https://rachel-shin-itp.notion.site/week-5-267d9b4cf2a680bb98e1f4e7b3260aca?source=copy_link)
-- Olivia - [muse_stg.1](https://www.notion.so/CompText-5-Bots-Muse-pt-1-284d586d7a8d807abb35f3d0b25fbbc6?source=copy_link)
-- Junqi - [Rhetorical Bot](https://jaceylynn.github.io/w5_rivescript_chatbot/)
+- Olivia - [muse](https://www.notion.so/CompText-6-Bots-Muse-291d586d7a8d8004aa62d94fb32dc014?source=copy_link)
+- Junqi - [Emoji Bot](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
+- Xueyu - [Writer bot](https://www.notion.so/xueyuli/Midterm-Bot-28b8c08bfd9e800f9a1afd928e7a6bf9)
+- Billy - [Discord Workout Bot](https://billybil30itpday.notion.site/Computational-Text-Bots-293edbdaee0280799f2cff0eb65c09fe?source=copy_link)
+- Sky - [sneaking a listen to the conversation](https://www.notion.so/MidTerm_ChatBot-2873d345d4aa8065bc76f22698040336)
+- Ping - [Pet Bot](https://www.notion.so/pinglin36/Discord-Bot-289e2a209705802e9961c55de2038818?source=copy_link)
+- Fiona -[Fiona's Bot](https://www.notion.so/Fiona-s-Assignment-CHATBOT-293701873e078082a4bdd2cf63dab710?source=copy_link)
+- Haya - [One Chorus Bot](https://www.notion.so/Midterm-Project-286c09edca1780fe9b2acea81de03b55?source=copy_link)
+- DJ - [Homie Bot](https://fl4me.notion.site/Assn-6-2895f3e6c8b880d98999d4e6990ecba8?source=copy_link)
+- Ivy - [Alien Profile Archive](https://ivy-jiang.notion.site/Bot-Project-28581cc6416080a0a347cc8bfb9695ee?pvs=74)
+- Yifan - [Pigeon Bot]([https://www.notion.so/Midterm-Project-286c09edca1780fe9b2acea81de03b55?source=copy_link](https://ccyffan.notion.site/Bot-Assignment-29345850b51e8096b3f5cc47b21eecd5?source=copy_link))
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
