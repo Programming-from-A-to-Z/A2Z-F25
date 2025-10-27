@@ -20,6 +20,16 @@
 - 🎥 [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) by Andrej Karpathy and [Intro to LLMs slides](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)
 - 📖 [Language Models Can Only Write Ransom Notes](https://posts.decontextualize.com/language-models-ransom-notes/) by Allison Parrish
 
+## Writing with LLMs
+
+- **Jhave Johnston** – _ReRites_
+  Human-AI poetic collaboration across a full poetry corpus.
+  🔗 [https://glia.ca/rerites/](https://glia.ca/rerites/)
+
+- **K. Allado-McDowell** – _Pharmako-AI_
+  GPT-3 dialogue on ecology, nonhuman consciousness, and techno-poetics.
+  🔗 [https://www.kalladomcdowell.com/pharmakoai](https://www.kalladomcdowell.com/pharmakoai)
+
 ## LLM Training
 
 - 🦙 [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
@@ -83,13 +93,12 @@ Reasoning models are a type of large language model trained (or fine-tuned) to s
 
 ## Assignment
 
-- Read [Language models can only write ransom notes](https://posts.decontextualize.com/language-models-ransom-notes/) by Allison Parrish and review the [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/May-2024/index.html). What questions arise for you about using LLMs in your work at ITP?
-- Experiment with prompting a large language model in some way other than a provided interface (e.g. ChatGPT) and document the results in a blog post. Consider how working with an LLM compares to generating text from the other methods including but not limited to markov chains and context free grammars. Here are some options:
+- Read [Dismantling the Empire of AI with Karen Hao](https://www.bloodinthemachine.com/p/dismantling-the-empire-of-ai-with) and [Karen Hao on how the AI boom became a new imperial frontier](https://www.reuters.com/lifestyle/karen-hao-how-ai-boom-became-new-imperial-frontier-2025-07-03/)
+- Experiment with prompting a large language model in some way other than a provided interface (e.g. ChatGPT) and document the results in a blog post. Consider how working with an LLM compares to generating text from the other methods including but not limited to markov chains and context free grammars. In your blog post, reflect on how your experiment relates to themes from the readings—whether that's labor, environmental impact, data extraction, corporate narratives, or something else. Here are some options:
   - Run [any of the code examples above](#code-examples-and-implementations) Try adjusting the prompts, interaction, or visual design.
-  - Sign up for the [OpenAI API](https://openai.com/blog/openai-api) and [try creating a "custom assistant" with a system prompt and knowledge base](https://platform.openai.com/assistants).
-  - Try running Llama locally with [Ollama](https://ollama.ai/). Compare and contrast different models.
-  - Can you connect an LLM to a Discord Bot!?!
-  - Invent your own idea!
+  - Try a variety of models locally with [Ollama](https://ollama.ai/) or [LMStudio](https://lmstudio.ai/). Compare and contrast different models.
+  - Can you connect an LLM to a Discord Bot or other platform?
+  - Invent your own idea! Think weird, critical, poetic, or subversive.
 
 ## Add your assignment below via Pull Request
 
