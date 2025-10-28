@@ -18,7 +18,7 @@
 
 ### Week 7 - [Bot Experiments Sharing](https://github.com/Programming-from-A-to-Z/A2Z-F25/blob/main/05-bots/README.md#bot-project-due-tuesday-october-21), 10/21
 
-### Week 8 - ML: LLMs, Training and Fine-Tuning, 10/28
+### Week 8 - [ML: LLMs](06-llms) 10/28
 
 ### Week 9 - ML: Embeddings, 11/4
 
