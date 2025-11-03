@@ -20,7 +20,7 @@
 
 ### Week 8 - [ML: LLMs](06-llms) 10/28
 
-### Week 9 - ML: Embeddings, 11/4
+### Week 9 - [ML: Embeddings](07-embeddings), 11/4
 
 ### Week 10 - TBD, 11/11
 
