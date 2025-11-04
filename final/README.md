@@ -1,6 +1,6 @@
 # Final Projects
 
-Your final project is a three-ish week assignment to be completed in two stages (proposal and implementation). Proposals will be presented in class on Nov 13 and Nov 20 - [proposal presentation schedule and guidelines](proposals.md)! Final presentations will be Dec 4 - [final presentation schedule and guidelines](documentation.md)
+Your final project is a three-ish week assignment to be completed in two stages (proposal and implementation). Proposals will be presented in class on Nov 18 and Nov 25 - [proposal presentation schedule and guidelines](proposals.md)! Final presentations will be Dec 9 - [final presentation schedule and guidelines](documentation.md)
 
 The final project should be a creative project that builds off or is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, projects do not need to be screen-based and there is no requirement to use a particular aspect of JavaScript or programming.
 
@@ -37,4 +37,4 @@ If you're unsure how to design your testing process, feel free to email me, and 
 
 ## Final Presentations
 
-- [final presentation schedule and guidlines](documentation.md)
+- [final presentation schedule and guidelines](documentation.md)
