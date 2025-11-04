@@ -54,5 +54,5 @@
 - UMAP p5.js examples
   - [Simple clustering 3D colors -> 2D](https://editor.p5js.org/ml_4_cc/sketches/ggF_2InLiL)
   - [Simple clustering random data, adjusting umap parameters](https://editor.p5js.org/ml_4_cc/sketches/EENH_ADmE)
-  - [Animated UMAP process + Clustering sentence embeddings from a database!](https://editor.p5js.org/a2zitp/sketches/p63QTp0Sd)
+  - [Animated UMAP process + Clustering sentence embeddings](https://editor.p5js.org/a2zitp/sketches/1SLvJ6nxC)
 - [Clustering CLIP Embeddings - Unsplash Image Dataset: 2D, 3D, Grid](https://github.com/shiffman/Clustering-Umap-Embeddings/)
