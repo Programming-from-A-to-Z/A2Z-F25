@@ -105,3 +105,4 @@ Reasoning models are a type of large language model trained (or fine-tuned) to s
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - name [post title](url)
+- Junqi [emotion analysis test](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
