@@ -109,4 +109,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Junqi [emotion analysis test](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 - Olivia [oracle](https://www.notion.so/CompText-7-LLMs-Oracle-2a0d586d7a8d80eda08be0fbebc797bf?source=copy_link)
 - Fiona Huang [Week 8 assignment experiment](https://www.notion.so/Week-8-Assignment-Experiment-2a0701873e078003891ae2e2911d47e4)
-- Sky Seo[Week 8 assignment experiment](https://tungsten-waterfall-ae7.notion.site/Week9-2a13d345d4aa804ab471e142e667c4bb?pvs=74)
+- Duban Morales [DesignerBot](https://dubanmorales.cargo.site/computational-text-a-to-z))
+- Sky Seo [Week 8 assignment experiment](https://tungsten-waterfall-ae7.notion.site/Week9-2a13d345d4aa804ab471e142e667c4bb?pvs=74)
