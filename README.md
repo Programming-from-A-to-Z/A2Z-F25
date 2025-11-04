@@ -22,7 +22,7 @@
 
 ### Week 9 - [ML: Embeddings](07-embeddings), 11/4
 
-### Week 10 - TBD, 11/11
+### Week 10 - Individual Meetings, 11/11
 
 ### Week 11 - [Final Project Proposals](final) + additional topics, 11/18
 
