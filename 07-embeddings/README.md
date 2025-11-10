@@ -56,3 +56,7 @@
   - [Simple clustering random data, adjusting umap parameters](https://editor.p5js.org/ml_4_cc/sketches/EENH_ADmE)
   - [Animated UMAP process + Clustering sentence embeddings](https://editor.p5js.org/a2zitp/sketches/1SLvJ6nxC)
 - [Clustering CLIP Embeddings - Unsplash Image Dataset: 2D, 3D, Grid](https://github.com/shiffman/Clustering-Umap-Embeddings/)
+
+## Assignment
+
+- 🎨 [Prepare to present a final project proposal](/final/proposals.md).

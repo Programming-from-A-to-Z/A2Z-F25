@@ -2,9 +2,27 @@
 
 ## Schedule and Documentation Links:
 
-### [DATE TBD]
+### 11/18
 
-### [DATE TBD]
+- Fiona --
+- Junqi --
+- Duban --
+- Rachel --
+- Olivia --
+- Ivy --
+- Billy --
+- Yao --
+
+### 11/25
+
+- Xueyu --
+- Niki --
+- Sky --
+- Ping --
+- DJ --
+- Haya --
+- Yifan --
+- Rajeshwari --
 
 ## Proposal Feedback TLDR:
 
