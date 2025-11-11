@@ -12,13 +12,13 @@
 - Ivy --
 - Billy --
 - Yao --
+- Ping --
 
 ### 11/25
 
 - Xueyu --
 - Niki --
 - Sky --
-- Ping --
 - DJ --
 - Haya --
 - Yifan --
