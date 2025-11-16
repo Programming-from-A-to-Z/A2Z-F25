@@ -17,13 +17,13 @@
 
 ## What is LM Studio?
 
+- [LM Studio](https://lmstudio.ai)
+- [LM Studio MCP docs](https://lmstudio.ai/docs/app/mcp)
+
 **LM Studio** (similar to Ollama) is a desktop app that downloads and runs local LLMs. It can also act as an **MCP host**:
 
 - You can plug in MCP servers (including ones you write yourself).
 - The local model can then call those tools.
-
-- [LM Studio](https://lmstudio.ai)
-- [LM Studio MCP docs](https://lmstudio.ai/docs/app/mcp)
 
 ## How To
 
