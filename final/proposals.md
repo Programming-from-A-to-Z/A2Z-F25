@@ -12,24 +12,17 @@
 - Ivy --
 - Billy --
 - Yao --
+- Ping --
 
 ### 11/25
 
 - Xueyu --
 - Niki --
 - Sky --
-- Ping --
 - DJ --
 - Haya --
 - Yifan --
 - Rajeshwari --
-
-## Proposal Feedback TLDR:
-
-1. Is the idea clear? Is there a clearly stated goal? What do you understand / not understand?
-2. What about scope? Can it be done in such a short period of time under current circumstances?
-3. Suggestions for relevant tutorials, reference projects, or other resources?
-4. What is a strategy for "play testing" in class on DATE TBD?
 
 ## Proposal Guidelines
 
@@ -81,3 +74,10 @@ Your job is to help the creator(s) of the project meet their goals. Can you sepa
 2. Are the technology, context, and intention working together or at odds?
 3. Are there cultural factors that could lead to understanding/misunderstanding?
 4. Are there biases on the part of the maker or viewer that are factors in receiving / interpreting the work?
+
+## Proposal Feedback TLDR:
+
+1. Is the idea clear? Is there a clearly stated goal? What do you understand / not understand?
+2. What about scope? Can it be done in such a short period of time under current circumstances?
+3. Suggestions for relevant tutorials, reference projects, or other resources?
+4. What is a strategy for "play testing" in class on 12/2?
