@@ -24,7 +24,7 @@
 
 ### Week 10 - Individual Meetings, 11/11
 
-### Week 11 - [Final Project Proposals](final) + additional topics, 11/18
+### Week 11 - [Final Project Proposals](final) + [MCP Server](08-mcp), 11/18
 
 ### Week 12 - [Final Project Proposals](final) + additional topics, 11/25
 
