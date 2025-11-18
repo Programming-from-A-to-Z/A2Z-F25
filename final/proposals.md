@@ -4,7 +4,7 @@
 
 ### 11/18
 
-- Fiona --
+- Fiona -- https://www.figma.com/slides/QKpiD7tTGXgghwsHKgBA3e/A2Z_Proposal-_Fiona?node-id=3-88&t=zgMdMF664dkpV6r7-1
 - Junqi --
 - Duban --
 - Olivia -- https://docs.google.com/presentation/d/1khDSyCdeAPM1YuayHC4pONaFSyBByLAJyQbihpxpF1Q/edit?usp=sharing
