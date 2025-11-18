@@ -9,7 +9,7 @@
 - Duban --
 - Olivia -- https://docs.google.com/presentation/d/1khDSyCdeAPM1YuayHC4pONaFSyBByLAJyQbihpxpF1Q/edit?usp=sharing
 - Ivy --
-- Billy --
+- Billy -- https://billybil30itpday.notion.site/Week-11-Final-Project-Proposal-2afedbdaee02804888a6f3fa860147ee?source=copy_link
 - Ping --
 
 ### 11/25
