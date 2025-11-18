@@ -10,12 +10,12 @@
 - Olivia -- https://docs.google.com/presentation/d/1khDSyCdeAPM1YuayHC4pONaFSyBByLAJyQbihpxpF1Q/edit?usp=sharing
 - Ivy --
 - Billy --
-- Yao --
 - Ping --
 
 ### 11/25
 
 - Rachel --
+- Yao --
 - Xueyu --
 - Niki --
 - Sky --
