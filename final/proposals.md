@@ -7,7 +7,6 @@
 - Fiona --
 - Junqi --
 - Duban --
-- Rachel --
 - Olivia -- https://docs.google.com/presentation/d/1khDSyCdeAPM1YuayHC4pONaFSyBByLAJyQbihpxpF1Q/edit?usp=sharing
 - Ivy --
 - Billy --
@@ -16,6 +15,7 @@
 
 ### 11/25
 
+- Rachel --
 - Xueyu --
 - Niki --
 - Sky --
