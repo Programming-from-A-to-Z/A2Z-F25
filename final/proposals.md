@@ -8,7 +8,7 @@
 - Junqi --
 - Duban --
 - Rachel --
-- Olivia --
+- Olivia -- https://docs.google.com/presentation/d/1khDSyCdeAPM1YuayHC4pONaFSyBByLAJyQbihpxpF1Q/edit?usp=sharing
 - Ivy --
 - Billy --
 - Yao --
