@@ -22,7 +22,8 @@
 - DJ --
 - Haya --
 - Yifan --
-- Rajeshwari --
+- Rajeshwari -- https://shocking-opinion-a98.notion.site/Comp-Text-A-Z-2b656ea68e8580009996fe549ab9f3bd?source=copy_link
+
 
 ## Proposal Guidelines
 
