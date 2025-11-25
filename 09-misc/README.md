@@ -9,7 +9,7 @@
 - [Fine-tune a pretrained model](https://huggingface.co/docs/transformers/en/training) by Hugging Face
 - [PEFT: Parameter-Efficient Fine-Tuning Methods for LLMs](https://huggingface.co/blog/samuellimabraz/peft-methods)
 - [OpenAI's Reinforcement Fine-Tuning Research Program](https://openai.com/form/rft-research-program/)
-- [OpenAI API](https://platform.openai.com/docs/guides/supervised-fine-tuning)
+- [OpenAI Supervised Fine-Tuning Docs](https://platform.openai.com/docs/guides/supervised-fine-tuning)
 - [Learn how to fine-tune Gemma 3 270M and run it on-device](https://developers.googleblog.com/own-your-ai-fine-tune-gemma-3-270m-for-on-device/?utm_source=chatgpt.com)
 
 ## Also! p5.js 2 text visualization
