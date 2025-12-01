@@ -27,7 +27,7 @@ If you're unsure how to design your testing process, feel free to email me, and 
 
 ### 12:20 👋 Hello
 
-### Round A: 12:30 - 1:30
+### Round A: 12:25 - 1:25
 
 ### Round B: 1:40 - 2:40
 
