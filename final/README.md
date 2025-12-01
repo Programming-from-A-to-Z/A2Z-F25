@@ -23,15 +23,15 @@ What testing means will almost certainly vary depending on the type of project. 
 
 If you're unsure how to design your testing process, feel free to email me, and I can help!
 
-### DATE / TIME TBD
+### Tuesday Dec 2
 
-### 12:10 👋 Hello
+### 12:20 👋 Hello
 
-### Group A Presenters: 12:15 - 1:15
+### Round A: 12:30 - 1:30
 
-### Group B Presenters: 1:30 - 2:30
+### Round B: 1:40 - 2:40
 
-### 2:30
+### 2:40
 
 - Course evaluations
 
