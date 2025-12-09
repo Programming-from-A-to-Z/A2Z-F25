@@ -12,7 +12,7 @@
 - DJ -- [EVOLVING PORTRAIT Documentation](https://fl4me.notion.site/Final-Proj-progress-2c35f3e6c8b8800eb8e3dfac88944801?pvs=73)
 - Olivia --  [Collected Exorcisms](https://www.notion.so/Collected-Exorcisms-Web-Archive-2b5d586d7a8d80ad92e3c21be83d1bb0?source=copy_link)
 - BREAK
-- Duban --
+- Duban -- [DesignBot](https://dubanmorales.cargo.site/computational-text-a-to-z)
 - Fiona --
 - Rajeshwari --
 - Niki --
