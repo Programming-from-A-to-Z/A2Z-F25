@@ -7,7 +7,7 @@
 - Haya --
 - Yao --
 - Billy --
-- Rachel --
+- Rachel -- [Audio Intaglio](https://rachel-shin-itp.notion.site/Final-Audio-Intaglio-267d9b4cf2a680528736ca390aed9ce0)
 - Xueyu --
 - DJ --
 - Olivia --
