@@ -8,7 +8,7 @@
 - Yao --
 - Billy -- [Journey - Biometric Health Platform](https://billybil30itpday.notion.site/Final-Project-Documentation-2bdedbdaee028086b5ccef1fdbba142a?source=copy_link)
 - Rachel -- [Audio Intaglio](https://rachel-shin-itp.notion.site/Final-Audio-Intaglio-267d9b4cf2a680528736ca390aed9ce0)
-- Xueyu --
+- Xueyu -- [Shape the emotions](https://www.notion.so/xueyuli/Final-2af8c08bfd9e80bb874efe74d24dfb5a)
 - DJ -- [EVOLVING PORTRAIT Documentation](https://fl4me.notion.site/Final-Proj-progress-2c35f3e6c8b8800eb8e3dfac88944801?pvs=73)
 - Olivia --  [Collected Exorcisms](https://www.notion.so/Collected-Exorcisms-Web-Archive-2b5d586d7a8d80ad92e3c21be83d1bb0?source=copy_link)
 - BREAK
