@@ -4,7 +4,7 @@
 
 - Welcome! 👋
 - Ping --
-- Haya --
+- Haya --[A Talk with the Past](https://www.notion.so/Final-project-presentation-2b6c09edca1780b3a2c2c9952d85c2c3?source=copy_link)
 - Yao --
 - Billy --
 - Rachel -- [Audio Intaglio](https://rachel-shin-itp.notion.site/Final-Audio-Intaglio-267d9b4cf2a680528736ca390aed9ce0)
