@@ -6,7 +6,7 @@
 - Ping --
 - Haya --[A Talk with the Past](https://www.notion.so/Final-project-presentation-2b6c09edca1780b3a2c2c9952d85c2c3?source=copy_link)
 - Yao --
-- Billy -- [Journey - Biometric Health Platform (https://billybil30itpday.notion.site/Final-Project-Documentation-2bdedbdaee028086b5ccef1fdbba142a?source=copy_link)
+- Billy -- [Journey - Biometric Health Platform](https://billybil30itpday.notion.site/Final-Project-Documentation-2bdedbdaee028086b5ccef1fdbba142a?source=copy_link)
 - Rachel -- [Audio Intaglio](https://rachel-shin-itp.notion.site/Final-Audio-Intaglio-267d9b4cf2a680528736ca390aed9ce0)
 - Xueyu --
 - DJ -- [EVOLVING PORTRAIT Documentation](https://fl4me.notion.site/Final-Proj-progress-2c35f3e6c8b8800eb8e3dfac88944801?pvs=73)
