@@ -18,7 +18,7 @@
 - Niki --
 - Ivy --
 - Yifan --
-- Junqi --
+- Junqi -- [Mood Journal](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
 - Sky --
 - Thank you! 💜
 
