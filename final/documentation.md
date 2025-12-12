@@ -5,7 +5,7 @@
 - Welcome! 👋
 - Ping --
 - Haya --[A Talk with the Past](https://www.notion.so/Final-project-presentation-2b6c09edca1780b3a2c2c9952d85c2c3?source=copy_link)
-- Yao --
+- Yao -- [AI NPC Comic](https://almond-celsius-975.notion.site/Chat-bot2-2c4822d0868880a5b539da79dcd2667b?source=copy_link)
 - Billy -- [Journey - Biometric Health Platform](https://billybil30itpday.notion.site/Final-Project-Documentation-2bdedbdaee028086b5ccef1fdbba142a?source=copy_link)
 - Rachel -- [Audio Intaglio](https://rachel-shin-itp.notion.site/Final-Audio-Intaglio-267d9b4cf2a680528736ca390aed9ce0)
 - Xueyu -- [Shape the emotions](https://www.notion.so/xueyuli/Final-2af8c08bfd9e80bb874efe74d24dfb5a)
