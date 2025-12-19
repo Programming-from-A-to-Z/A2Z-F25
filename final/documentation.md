@@ -15,7 +15,7 @@
 - Duban -- [DesignBot](https://dubanmorales.cargo.site/computational-text-a-to-z)
 - Fiona -- [Personal Chat Bot](https://fionahuang.design/)
 - Rajeshwari -- [Emotional Landscape Chatbot](https://shocking-opinion-a98.notion.site/Finals-Documentation-2c356ea68e85806fb38fe99b05c4d539?source=copy_link)
-- Niki --
+- Niki -- [Tide of hidden words]([https://dubanmorales.cargo.site/computational-text-a-to-z](https://www.notion.so/A2Z-Final-Project-Tide-of-Hidden-Words-Niki-2cc0470c67d48079acc0d2ec0af84df4))
 - Ivy --
 - Yifan --
 - Junqi -- [Mood Journal](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
